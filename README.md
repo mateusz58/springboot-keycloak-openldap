@@ -422,3 +422,7 @@ Unable to update to `Keycloak` version `8.0.0` due to this issue, https://issues
 ## References
 
 - https://www.keycloak.org/docs/latest/server_admin/
+
+4b1f72d3-86b6-4525-92d1-1177e9598f56
+
+c95a0c78-5749-410b-baf8-75019d118d22
